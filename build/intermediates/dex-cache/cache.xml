@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b8b7e384d89b7a1d2bf391e3df7c1610930ee988.jar" />
+    </item>
+    <item
+        jar="/Users/xiaoyiz/Desktop/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-52bd04ad7696d545ae5e4f1c49da01106c1f432f.jar" />
+    </item>
+    <item
+        jar="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/classes-576947c6c586947819b879effdc5ebd863e83d58.jar" />
+    </item>
+
+</items>
