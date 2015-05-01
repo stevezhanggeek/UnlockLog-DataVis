@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
+        jar="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-70ed393fe32f4c055062735e6d80b240a8b1ca74.jar" />
+    </item>
+    <item
         jar="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
         <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b8b7e384d89b7a1d2bf391e3df7c1610930ee988.jar" />
+    </item>
+    <item
+        jar="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/Parse-1.9.1-aad54976703fd1cac3312ea09caf00989c77899f.jar" />
     </item>
     <item
         jar="/Users/xiaoyiz/Desktop/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"

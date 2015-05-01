@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/Application/Application.iml" filepath="$PROJECT_DIR$/Application/Application.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnlockLog.iml" filepath="$PROJECT_DIR$/UnlockLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnlockLog-DataVis.iml" filepath="$PROJECT_DIR$/UnlockLog-DataVis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UnlockLog-DataVis.iml" filepath="$PROJECT_DIR$/UnlockLog-DataVis.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,6 @@
 /Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/classes/debug
 /Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-52bd04ad7696d545ae5e4f1c49da01106c1f432f.jar
+/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-70ed393fe32f4c055062735e6d80b240a8b1ca74.jar
 /Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b8b7e384d89b7a1d2bf391e3df7c1610930ee988.jar
+/Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/Parse-1.9.1-aad54976703fd1cac3312ea09caf00989c77899f.jar
 /Users/xiaoyiz/Desktop/UnlockLog-DataVis/Application/build/intermediates/pre-dexed/debug/classes-576947c6c586947819b879effdc5ebd863e83d58.jar
